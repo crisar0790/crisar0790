@@ -1,5 +1,6 @@
   <img src="./assets/img/Full-Stack-Developer.jpg" width="1024" height="439" aling="center"/>
 
+<div display="flex" justifyContent="center">
    <h1>
      <i>
         <p aling="center">Hola a todos!! <br/>
@@ -8,6 +9,7 @@
         </p>
     </i>
   </h1>
+</div>
 
 ## ✍ Languages and Tools
 
