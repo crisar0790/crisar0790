@@ -2,9 +2,9 @@
 
 <h1>
      <i>
-        <p align="center"> Hola a todos!! <br/>
-               Mi nombre es Cristian Ariel Achetoni, <br/>
-               Soy Desarrollador Jr. Full Stack 💻⚡
+        <p align="center"> Hello everybody!!! <br/>
+               My name is Cristian Ariel Achetoni, <br/>
+               I'm Full Stack Developer 💻⚡
         </p>
     </i>
 </h1>
@@ -44,25 +44,25 @@
 
 <h2 align="center">About me</h2>
 
-¿Quién soy? 🙆‍♂️
-Desarrollador Fullstack . La realización de proyectos individuales y en equipo culminados recientemente incrementan en mí el interés y la pasión por la tecnología ✨. Tengo la capacidad de realizar proyectos web teniendo siempre en mente que sean escalables y moduralizables para así poder construir en equipo.
+Who I am? 🙆‍♂️
+Full stack developer. Carrying out recently completed individual and team projects increases my interest and passion for technology ✨. I have the ability to carry out web projects always keeping in mind that they are scalable and customizable in order to build as a team.
 
-¿Por que yo? 🚀
-Todos los miembros de esta comunidad tenemos excelentes habilidades técnicas, sin embargo conmigo obtendrás un desarrollador curioso con gran capacidad de resolución de problemas y sobre todo un desarrollador siempre dispuesto a enseñar y aprender de los demás.
+Why me? 🚀
+All the members of this community have excellent technical skills, however with me you will get a curious developer with great problem solving skills and above all a developer always willing to teach and learn from others.
 
 
-💼 Experiencias...
-- Mi experiencia ha sido bastante variada, pasando por el ámbito académico así como también trabajos en relación de dependencia. Finalicé la carrera de Ingeniería Indutrial para luego trabajar en distintas industrias, donde obtuve varias habilidades, como metodologías de trabajo en equipo, realización de proyectos, planificación y control de la producción, gerenciamiento administrativo y comercial.
-- Experiencias académicas en el Bootcamp de soyHenry:
-> Desarrollo en equipo remoto, de un servicio de alquiler de autos, con todos los requerimientos y features deseables, contrarreloj y sprints semanales, entendiendo los flujos de información y los flujos de trabajo en Git, obteniendo una aplicación de la calidad esperada. 
+💼 Experiences...
+- My experience has been quite varied, going through the academic field as well as jobs in a dependency relationship. I finished my degree in Industrial Engineering to later work in different industries, where I obtained several skills, such as teamwork methodologies, project execution, production planning and control, administrative and commercial management.
+- Academic experiences in the SoyHenry Bootcamp:
+    * Remote team development of a car rental service, with all the requirements and desirable features, time trial and weekly sprints, understanding the information flows and workflows in Git, obtaining an application of the expected quality.
+    
+    * Personal project, a SPA with Backend in Node, Express, and Sequelize in PostgreSQL, consumed an external API and added functionality to it. The Frontend was achieved with React, Redux and CSS.
 
-> Proyecto personal, una SPA con Backend en Node, Express, y Sequelize en PostgreSQL, consumía una API externa y añadía funcionalidad a la misma. El Frontend se logro con React, Redux y CSS.
+It is my desire to join projects in the short, medium or long term, improve current knowledge, and learn much more, always more!🚀
 
-Es mi deseo sumarme a proyectos a corto, mediano o largo plazo, mejorar los conocimientos actuales, y aprender mucho mas, ¡siempre mas! 🚀
+I am a person who is results oriented, curious, good communication skills, analytical thinking, ability to solve problems, a great ability to learn new tools and technologies, responsible, honest, optimistic, flexible and committed. Always predisposed to collaborate, learn and continue to improve as a professional.
 
-Soy una persona que se orienta a resultados, curioso, buenas habilidades de comunicación, pensamiento analítico, habilidad para resolver problemas, una gran capacidad para aprender nuevas herramientas y tecnologías, responsable, honesto, optimista, flexible y comprometido. Siempre predispuesto a colaborar, aprender y seguir mejorando como profesional. 
-
-Si te interesa mi perfil seguí mirando mi LinkedIn o, mucho mejor, contáctame y organizamos una entrevista para que te cuente en persona! 🤗
+If you are interested in my profile, keep looking at my LinkedIn or, much better, contact me and we will organize an interview so that I can tell you in person! 🤗
 
 <hr/>
 
