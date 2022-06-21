@@ -90,22 +90,22 @@ Si te interesa mi perfil seguí mirando mi LinkedIn o, mucho mejor, contáctame 
 ### FullStack Developer - LUXURENT:
 
 ---
-![Esta es una imagen](./assets/projects/luxu1.PNG)
-![Esta es una imagen](./assets/projects/luxu2.PNG)
-![Esta es una imagen](./assets/projects/luxu3.PNG)
-![Esta es una imagen](./assets/projects/luxu4.PNG)
-![Esta es una imagen](./assets/projects/luxu5.PNG)
+![Esta es una imagen](./assets/projects/luxu1.png)
+![Esta es una imagen](./assets/projects/luxu2.png)
+![Esta es una imagen](./assets/projects/luxu3.png)
+![Esta es una imagen](./assets/projects/luxu4.png)
+![Esta es una imagen](./assets/projects/luxu5.png)
 
 ### FullStack Developer - PI-POKÉMON:
 
-![Esta es una imagen](./assets/projects/poke1.PNG)
-![Esta es una imagen](./assets/projects/poke2.PNG)
-![Esta es una imagen](./assets/projects/poke3.PNG)
-![Esta es una imagen](./assets/projects/poke4.PNG)
+![Esta es una imagen](./assets/projects/poke1.png)
+![Esta es una imagen](./assets/projects/poke2.png)
+![Esta es una imagen](./assets/projects/poke3.png)
+![Esta es una imagen](./assets/projects/poke4.png)
 
 ### FullStack Developer - BOOKS-APP:
 
-![Esta es una imagen](./assets/projects/book1.PNG)
-![Esta es una imagen](./assets/projects/book2.PNG)
+![Esta es una imagen](./assets/projects/book1.png)
+![Esta es una imagen](./assets/projects/book2.png)
 
 ---
