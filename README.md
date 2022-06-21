@@ -1,4 +1,4 @@
-  <img src="./assets/projects/seguridad.jpeg" width="1024" height="439" aling="center"/>
+  <img src="./assets/img/Full-Stack-Developer.jpg" width="1024" height="439" aling="center"/>
 
    <h1>
      <i>
